@@ -1,1 +1,1 @@
-![Notice](Notice)
+[Notice](Notice)
